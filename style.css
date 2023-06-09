@@ -1,0 +1,166 @@
+body{
+    background-color:#3c345c;
+    padding: none;
+    margin: none;
+}
+
+
+h1{
+    text-align: center;
+    padding-top: 140px;
+    color: #fff;
+    font-weight: bold;
+}
+
+
+.container{
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 120px;
+
+}
+
+.container input{
+    width: 280px;
+    height: 28px;
+    border-radius: 12px;
+    border: none;
+}
+
+.container button{
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    width: 85px;
+    height: 26px;
+}
+
+#btn{
+    background-color: green;
+    color: #fff;
+    font-weight: bold;
+
+}
+
+#btn:hover{
+    background-color: rgb(1, 169, 1);
+    color: #fff;
+    font-weight: bold;
+}
+
+#btttn{
+    background-color: red;
+    color: #fff;
+    font-weight: bold;
+
+}
+
+#btttn:hover{
+   background-color: rgb(216, 19, 19);
+    color: #fff;
+    font-weight: bold;
+
+}
+
+#list{
+    margin-right: 100px;
+    color: #fff;
+    display: flex;  
+    align-items: center;
+    flex-direction: column;
+    padding-top: 25px;
+    margin-left: 130px;
+    
+}
+
+.edit-btn{
+    background-color: yellow;
+    border: none;
+    color: #000;
+    font-weight: bold;
+    border-radius: 10px;
+    width: 40px;
+    height: 25px;
+    margin-left: 5px;
+}
+
+.edit-btn:hover{
+    background-color: rgb(234, 234, 5);
+    border: none;
+    color: #000;
+    font-weight: bold;
+
+}
+
+.del-btn{
+    background-color: red;
+    border: none;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 10px;
+    width: 55px;
+    height: 25px;
+    margin-left: 5px;
+}
+
+.del-btn:hover{
+    background-color: rgb(216, 19, 19);
+    border: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+.li-style{
+    width: 300px;
+    padding-top: 5px;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
